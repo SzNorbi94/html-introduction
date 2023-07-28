@@ -97,6 +97,7 @@ p{
 
 
 .bottom-container{
+    margin-top: 50px;
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(22,189,21,1) 0%, rgba(18,24,168,1) 100%);
     padding: 10px 0;
