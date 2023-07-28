@@ -17,17 +17,10 @@ h2{
     color: #701bc0;
 }
 
-.get-in-touch{
-    color: white;
-}
-
 h3{
     color: #0f7376;
+    text-align: center;
     
-}
-
-.nature-h3{
-    margin-left: 30px;
 }
 
 a{
@@ -44,8 +37,9 @@ p{
 }
 
 .én{
+    width: 250px;
     padding: 30px;
-    border-radius: 30%;
+    border-radius: 20%;
 }
 
 .skill-row{
@@ -62,10 +56,16 @@ p{
     margin-right: 30px;
 }
 
-.landscape-img{
+.drone_icon-img{
     width: 25%;
     float: right;
     margin-left: 30px;
+}
+
+.landscape-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
 }
 
 .certificate-img{
@@ -95,10 +95,6 @@ p{
     padding-bottom: 30px; 
 }
 
-.middle-container2{
-    padding-top: 50px;
-    padding-bottom: 30px; 
-}
 
 .bottom-container{
     background: rgb(2,0,36);
